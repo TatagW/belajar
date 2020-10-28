@@ -6,7 +6,7 @@ function test () {
     console.log('kajsdakjsdh')
     console.log('coba edit')
     console.log("INI HARUS")
-
+    console.log("dari branch dev1")
     
 
 }
