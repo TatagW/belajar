@@ -4,7 +4,7 @@ function test () {
     console.log('akjsdhakjsdha')
     console.log("Zzzzzzzzzzz")
     console.log('kajsdakjsdh')
-
+    console.log('kajsdakjsdh')
 }
 
 test()
