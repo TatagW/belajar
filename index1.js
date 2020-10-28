@@ -4,4 +4,11 @@ function test () {
     console.log('coba index kedua')
     console.log('coba edit')
 
+    console.log('coba index kedua')
+
+
+
+
+
+    console.log("INI HARUS")
 }

@@ -5,6 +5,8 @@ function test () {
     console.log("Zzzzzzzzzzz")
     console.log('kajsdakjsdh')
     console.log('coba edit')
+    console.log("INI HARUS")
+
     
 
 }
